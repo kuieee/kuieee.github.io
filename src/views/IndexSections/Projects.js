@@ -49,27 +49,27 @@ export function Projects(props) {
           className="px-3 justify-content-center justify-content-md-center current-projects"
         >
           <ProjectCard
-            img={require("assets/img/projects/coming_soon.webp")}
+            img={require("assets/img/projects/2024/solar_e_bike.webp")}
             projectTitle="Solar E-Bike"
             projectDesc=""
           />
           <ProjectCard
-            img={require("assets/img/projects/coming_soon.webp")}
+            img={require("assets/img/projects/2024/guitar_amplifier.webp")}
             projectTitle="GuitarAmp"
             projectDesc=""
           />
           <ProjectCard
-            img={require("assets/img/projects/coming_soon.webp")}
+            img={require("assets/img/projects/2024/cyberdeck.webp")}
             projectTitle="CyberDeck"
             projectDesc=""
           />
           <ProjectCard
-            img={require("assets/img/projects/coming_soon.webp")}
+            img={require("assets/img/projects/2024/radio.webp")}
             projectTitle="FM Radio"
             projectDesc=""
           />
           <ProjectCard
-            img={require("assets/img/projects/coming_soon.webp")}
+            img={require("assets/img/projects/2024/parking_app.webp")}
             projectTitle="Parking Availability Software"
             projectDesc=""
           />
