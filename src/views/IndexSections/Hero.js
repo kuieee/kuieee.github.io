@@ -101,6 +101,17 @@ function Hero(props) {
                   >
                     View Details
                   </Button>
+                  {nextEvent.rsvp && (
+                  <a
+                    href={nextEvent.rsvp}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-primary mt-3"
+                    role="button"
+                    onClick={() => {}}
+                  >
+                    RSVP
+                  </a>)}
                 </Col>
               </Row>
             </Container>
